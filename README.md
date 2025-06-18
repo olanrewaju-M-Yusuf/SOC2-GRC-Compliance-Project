@@ -99,8 +99,6 @@ Security awareness workshops held for HR, DevOps, Legal. Simulated audit intervi
 
 ---
 
-![SOC 2 GRC Summary](sandbox:/mnt/data/soc2_grc_summary_image.png)
-
 ---
 
 > Prepared by: **Rewaju** – GRC Analyst | Cybersecurity Researcher
